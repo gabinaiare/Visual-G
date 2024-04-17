@@ -1,21 +1,21 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 03/01/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    n1 , n2 , n3 : inteiro
    maior , menor : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreval ("Digite o primeiro número")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+   escreval ("Digite o primeiro nÃºmero")
    leia (n1)
-   escreval ("Digite o segundo número")
+   escreval ("Digite o segundo nÃºmero")
    leia (n2)
-   escreval ("Digite o terceiro número")
+   escreval ("Digite o terceiro nÃºmero")
    leia (n3)
 
    maior <- n1
@@ -35,7 +35,7 @@ Inicio
       menor <- n3
    fimse
    
-   escreval ("O número maior é: " , maior)
-   escreval ("O número menor é: " , menor)
+   escreval ("O nÃºmero maior Ã©: " , maior)
+   escreval ("O nÃºmero menor Ã©: " , menor)
 
 Fimalgoritmo
